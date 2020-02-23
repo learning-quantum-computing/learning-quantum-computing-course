@@ -45,9 +45,10 @@
 <br>
 
 * _This project contains **Tutorials**, **Examples**, **Exercises**, **Papers**, **Posters** and **Illustrations** covering several concepts of **Quantum Physics/Mechanics** and **Quantum Computing**, such as_:
-  * **_Quantum Information Science_**
+  * **_Quantum Information Theory Science_**
   * **_Quantum Algorithms_**
   * **_Quantum Error Correction_**
+  * **_Quantum Optmization_**
   * **_Quantum Internet/Networks_**
   * **_Quantum Cryptography_**
   * **_Quantum Artificial Intelligence_**
@@ -85,34 +86,38 @@
 <br>
 
 * _The **Posters** and **Illustrations** are built in_:
-  * [**_Adobe Photoshop_**]()
-  * [**_Adobe Illustrator_**]()
-  * [**_Adobe Photoshop Lightroom_**]()
+  * [**_Adobe Photoshop_**](https://www.adobe.com/products/photoshop.html)
+  * [**_Adobe Illustrator_**](https://www.adobe.com/products/illustrator.html)
+  * [**_Adobe InDesign**](https://www.adobe.com/products/indesign.html)
+  * [**_Adobe Photoshop Lightroom_**](https://www.adobe.com/products/photoshop-lightroom.html)
 
 <br>
 
 * _Some **Tutorials**, **Examples** and **Exercises** use other important **Packages**, **Libraries** and **Frameworks** for **Data Science**, **Cybersecurity**, **Cryptography**, **Quantum Physics/Mechanics** and **Quantum Computing**, such as_:
-  * [**_Anaconda_**]()
-  * [**_Bokeh_**]()
-  * [**_Cython_**]()
-  * [**_Dask_**]()
-  * [**_Jython_**]()
-  * [**_Matplotlib_**]()
-  * [**_Numba_**]()
-  * [**_NumPy_**]()
-  * [**_PyTorch_**]()
-  * [**_SciKit Learn_**]()
-  * [**_SciPy_**]()
-  * [**_SymPy_**]()
-  * [**_TensorFlow_**]()
-  * [**_Theano_**]()
-  * [**_QuTip_**]()
-  * [**_OpenSSL_**]()
-  * [**_Python's Cryptography Library_**]()
+  * [**_Anaconda_**](https://www.anaconda.com/)
+  * [**_IPython_**](https://ipython.org/)
+  * [**_Bokeh_**](https://bokeh.org/)
+  * [**_Cython_**](https://cython.org/)
+  * [**_Dask_**](https://dask.org/)
+  * [**_Datashader_**](https://datashader.org/)
+  * [**_HoloViews_**](https://holoviews.org/)
+  * [**_Jython_**](https://www.jython.org/)
+  * [**_Matplotlib_**](https://matplotlib.org/)
+  * [**_Numba_**](http://numba.pydata.org/)
+  * [**_NumPy_**](https://numpy.org/)
+  * [**_PyTorch_**](https://pytorch.org/)
+  * [**_SciKit Learn_**](https://scikit-learn.org/)
+  * [**_SciPy_**](https://www.scipy.org/)
+  * [**_SymPy_**](https://www.sympy.org/)
+  * [**_TensorFlow_**](https://www.tensorflow.org/)
+  * [**_Theano_**](http://deeplearning.net/software/theano/)
+  * [**_QuTip_**](http://qutip.org/)
+  * [**_OpenSSL_**](https://www.openssl.org/)
+  * [**_Python's Cryptography Library_**](https://cryptography.io/)
 
 <br>
 
-* _Some **Examples**, **Exercises** and **Tutorials** also use the [**NetSquid**]() and [**SimulaQron**]() **Simulators Frameworks** ([**TU Delft**]()'s/[**QuTech**]()'s **Quantum Internet's/Network Simulators**)_.
+* _Some **Examples**, **Exercises** and **Tutorials** also use the [**NetSquid**](https://netsquid.org/) and [**SimulaQron**](http://www.simulaqron.org/) **Simulators Frameworks** ([**TU Delft**](https://www.tudelft.nl/)'s/[**QuTech**](https://qutech.nl/)'s **Quantum Internet's/Network Simulators**)_.
 
 <br>
 
