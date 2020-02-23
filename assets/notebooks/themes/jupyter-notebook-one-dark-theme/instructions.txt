@@ -1,0 +1,4 @@
+1. Open a Bash Console and type the following instructions:
+- 1.a. cp custom.css ~/.jupyter/custom/custom.css
+- 1.b. pip install jupyterthemes
+- 1.c. cp startup.py ~/.ipython/profile_default/startup/startup.py
