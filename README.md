@@ -73,7 +73,7 @@
 
 <br>
 
-* _The **_tutorials_**, **_examples_** and **_exercises_** are mostly built in_:
+* _The **Tutorials**, **Examples** and **Exercises** are mostly built in_:
   * [**_Python_**](https://www.python.org/)
   * [**_Jupyter Notebooks_**](https://jupyter.org/)
 
@@ -84,14 +84,15 @@
 
 <br>
 
-* _The **Posters** are built in_:
+* _The **Posters** and **Illustrations** are built in_:
   * [**_Adobe Photoshop_**]()
   * [**_Adobe Illustrator_**]()
   * [**_Adobe Photoshop Lightroom_**]()
 
 <br>
 
-* _Some **Tutorials**, **Examples** and **Exercises** use other important **packages**, **libraries** and **frameworks** for **Data Science**, **Cybersecurity**, **Cryptography**, **Quantum Physics/Mechanics** and **Quantum Computing**, such as_:
+* _Some **Tutorials**, **Examples** and **Exercises** use other important **Packages**, **Libraries** and **Frameworks** for **Data Science**, **Cybersecurity**, **Cryptography**, **Quantum Physics/Mechanics** and **Quantum Computing**, such as_:
+  * [**_Anaconda_**]()
   * [**_Bokeh_**]()
   * [**_Cython_**]()
   * [**_Dask_**]()
@@ -111,7 +112,7 @@
 
 <br>
 
-* _Some examples and tutorials also use the [**NetSquid**]() and [**SimulaQron**]() **Simulators Frameworks** ([**TU Delft**]()'s/[**QuTech**]()'s **Quantum Internet's/Network Simulators**)_.
+* _Some **Examples**, **Exercises** and **Tutorials** also use the [**NetSquid**]() and [**SimulaQron**]() **Simulators Frameworks** ([**TU Delft**]()'s/[**QuTech**]()'s **Quantum Internet's/Network Simulators**)_.
 
 <br>
 
