@@ -44,7 +44,7 @@
 
 <br>
 
-* _This project contains **tutorials**, **examples**, **exercises**, **papers** and **posters** covering several concepts of **Quantum Physics/Mechanics** and **Quantum Computing**, such as_:
+* _This project contains **Tutorials**, **Examples**, **Exercises**, **Papers**, **Posters** and **Illustrations** covering several concepts of **Quantum Physics/Mechanics** and **Quantum Computing**, such as_:
   * **_Quantum Information Science_**
   * **_Quantum Algorithms_**
   * **_Quantum Error Correction_**
