@@ -117,7 +117,7 @@
 
 <br>
 
-* _Some **Examples**, **Exercises** and **Tutorials** also use the [**NetSquid**](https://netsquid.org/) and [**SimulaQron**](http://www.simulaqron.org/) **Simulators Frameworks** ([**TU Delft**](https://www.tudelft.nl/)'s/[**QuTech**](https://qutech.nl/)'s **Quantum Internet's/Network Simulators**)_.
+* _Some **Examples**, **Exercises** and **Tutorials** also use the [**NetSquid**](https://netsquid.org/) and [**SimulaQron**](http://www.simulaqron.org/) **Simulators' Frameworks** ([**TU Delft**](https://www.tudelft.nl/)'s/[**QuTech**](https://qutech.nl/)'s **Quantum Internet's/Network's Simulators**)_.
 
 <br>
 
