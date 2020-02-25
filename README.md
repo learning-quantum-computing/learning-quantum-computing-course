@@ -16,7 +16,6 @@
 [![keyword of this version no. 2](https://img.shields.io/badge/keyword-quantum&nbsp;mechanics-brown.svg)](https://github.com/rubenandrebarreiro/learning-quantum-computing-course/)
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-quantum&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/learning-quantum-computing-course/)
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-quantum&nbsp;information&nbsp;science-brown.svg)](https://github.com/rubenandrebarreiro/learning-quantum-computing-course/)
-
 [![keyword of this version no. 5](https://img.shields.io/badge/keyword-quantum&nbsp;algorithms-brown.svg)](https://github.com/rubenandrebarreiro/learning-quantum-computing-course/)
 [![keyword of this version no. 6](https://img.shields.io/badge/keyword-quantum&nbsp;error&nbsp;correction-brown.svg)](https://github.com/rubenandrebarreiro/learning-quantum-computing-course/)
 [![keyword of this version no. 7](https://img.shields.io/badge/keyword-quantum&nbsp;optimization-brown.svg)](https://github.com/rubenandrebarreiro/learning-quantum-computing-course/)
@@ -135,9 +134,9 @@
 <br>
 
 * _The **Posters** and **Illustrations** are built in_:
-  * [**_Adobe Photoshop_**](https://www.adobe.com/products/photoshop.html)
   * [**_Adobe Illustrator_**](https://www.adobe.com/products/illustrator.html)
   * [**_Adobe InDesign_**](https://www.adobe.com/products/indesign.html)
+  * [**_Adobe Photoshop_**](https://www.adobe.com/products/photoshop.html)
   * [**_Adobe Photoshop Lightroom_**](https://www.adobe.com/products/photoshop-lightroom.html)
 
 <br>
