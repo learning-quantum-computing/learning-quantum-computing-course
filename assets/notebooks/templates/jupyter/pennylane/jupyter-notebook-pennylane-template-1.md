@@ -71,9 +71,9 @@
         </p>
     </div>
     <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/frameworks/cirq-logo-1.png"/ height="200" width="200" alt="Google's Cirq"/>
+        <img src="../../../../imgs/logos/frameworks/pennylane-logo-1.png"/ height="200" width="200" alt="Xanadu's PennyLane"/>
         <p style="text-align:center">
-            <a href="https://github.com/quantumlib/Cirq"><u><i><b>Google's Cirq</b></i></u></a>
+            <a href="https://pennylane.ai/"><u><i><b>Xanadu's PennyLane</b></i></u></a>
         </p>
     </div>
     <div style="float: left; width: 20%; padding: 5px;">
@@ -92,15 +92,9 @@
 
 <div>
     <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/enterprises/google-logo-1.png"/ height="200" width="200" alt="Google"/>
+        <img src="../../../../imgs/logos/enterprises/xanadu-logo-1.png"/ height="200" width="200" alt="Xanadu"/>
         <p style="text-align:center">
-            <a href="https://www.google.com/"><u><i><b>Google</b></i></u></a>
-        </p>
-    </div>
-    <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/projects-and-teams/google-ai-quantum-logo-1.png"/ height="200" width="200" alt="Google AI Quantum"/>
-        <p style="text-align:center">
-            <a href="https://research.google/teams/applied-science/quantum/"><u><i><b>Google AI Quantum</b></i></u></a>
+            <a href="https://www.xanadu.ai/"><u><i><b>Xanadu</b></i></u></a>
         </p>
     </div>
 </div>
@@ -109,11 +103,8 @@
 
 
 ```python
-# Importing standard Cirq libraries
-from cirq.devices import GridQubit
-from cirq import Circuit
-from cirq import measure
-from cirq import Simulator
+# Importing standard PennyLane libraries
+from pennylane import device, QNode
 ```
 
 

@@ -62,82 +62,73 @@
 
 .. raw:: html
 
-   <div>
-
-::
-
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/anaconda-logo-1.png"/ height="200" width="200" alt="Python"/>
-       <p style="text-align:center">
-           <a href="https://www.anaconda.com/"><u><i><b>Anaconda</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/jupyter-notebook-logo-1.png" height="200" width="200" alt="Jupyter Notebook"/>
-       <p style="text-align:center">
-           <a href="https://jupyter.org/"><u><i><b>Jupyter Notebook</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/python-logo-1.png"/ height="200" width="200" alt="Python"/>
-       <p style="text-align:center">
-           <a href="https://www.python.org/"><u><i><b>Python</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/cirq-logo-1.png"/ height="200" width="200" alt="Google's Cirq"/>
-       <p style="text-align:center">
-           <a href="https://github.com/quantumlib/Cirq"><u><i><b>Google's Cirq</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/matplotlib-logo-1.png"/ height="200" width="200" alt="Matplotlib"/>
-       <p style="text-align:center">
-           <a href="https://matplotlib.org/"><u><i><b>Matplotlib</b></i></u></a>
-       </p>
-   </div>
+   <p style="text-align:justify">
 
 .. raw:: html
 
-   </div>
+   </p>
 
---------------
+`Anaconda <https://www.anaconda.com/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Jupyter Notebook <https://jupyter.org/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Python <https://www.python.org/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Xanadu’s PennyLane <https://pennylane.ai/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Matplotlib <https://matplotlib.org/>`__
 
 **Special Thanks To:**
 ----------------------
 
 .. raw:: html
 
-   <div>
-
-::
-
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/enterprises/google-logo-1.png"/ height="200" width="200" alt="Google"/>
-       <p style="text-align:center">
-           <a href="https://www.google.com/"><u><i><b>Google</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/projects-and-teams/google-ai-quantum-logo-1.png"/ height="200" width="200" alt="Google AI Quantum"/>
-       <p style="text-align:center">
-           <a href="https://research.google/teams/applied-science/quantum/"><u><i><b>Google AI Quantum</b></i></u></a>
-       </p>
-   </div>
+   <p style="text-align:justify">
 
 .. raw:: html
 
-   </div>
+   </p>
+
+`Xanadu <https://www.xanadu.ai/>`__
 
 --------------
 
 .. code:: ipython3
 
-    # Importing standard Cirq libraries
-    from cirq.devices import GridQubit
-    from cirq import Circuit
-    from cirq import measure
-    from cirq import Simulator
+    # Importing standard PennyLane libraries
+    from pennylane import device, QNode
 
 .. code:: ipython3
 
