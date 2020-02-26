@@ -62,82 +62,87 @@
 
 .. raw:: html
 
-   <div>
-
-::
-
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/anaconda-logo-1.png"/ height="200" width="200" alt="Python"/>
-       <p style="text-align:center">
-           <a href="https://www.anaconda.com/"><u><i><b>Anaconda</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/jupyter-notebook-logo-1.png" height="200" width="200" alt="Jupyter Notebook"/>
-       <p style="text-align:center">
-           <a href="https://jupyter.org/"><u><i><b>Jupyter Notebook</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/python-logo-1.png"/ height="200" width="200" alt="Python"/>
-       <p style="text-align:center">
-           <a href="https://www.python.org/"><u><i><b>Python</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/qiskit-logo-2.png"/ height="200" width="200" alt="IBM's Qiskit"/>
-       <p style="text-align:center">
-           <a href="https://www.qiskit.org/"><u><i><b>IBM's Qiskit</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/matplotlib-logo-1.png"/ height="200" width="200" alt="Matplotlib"/>
-       <p style="text-align:center">
-           <a href="https://matplotlib.org/"><u><i><b>Matplotlib</b></i></u></a>
-       </p>
-   </div>
+   <p style="text-align:justify">
 
 .. raw:: html
 
-   </div>
+   </p>
 
---------------
+`Anaconda <https://www.anaconda.com/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Jupyter Notebook <https://jupyter.org/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Python <https://www.python.org/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Google’s Cirq <https://github.com/quantumlib/Cirq>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Matplotlib <https://matplotlib.org/>`__
 
 **Special Thanks To:**
 ----------------------
 
 .. raw:: html
 
-   <div>
-
-::
-
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/enterprises/ibm-logo-1.png"/ height="200" width="200" alt="IBM"/>
-       <p style="text-align:center">
-           <a href="https://www.ibm.com/"><u><i><b>IBM</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/projects-and-teams/ibm-q-logo-1.png" height="200" width="200" alt="IBM Q Experience"/>
-       <p style="text-align:center">
-           <a href="https://quantum-computing.ibm.com/"><u><i><b>IBM Q Experience</b></i></u></a>
-       </p>
-   </div>
+   <p style="text-align:justify">
 
 .. raw:: html
 
-   </div>
+   </p>
+
+`Google <https://www.google.com/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Google AI
+Quantum <https://research.google/teams/applied-science/quantum/>`__
 
 --------------
 
 .. code:: ipython3
 
-    # Importing standard Qiskit libraries and configuring account
-    from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister, execute, Aer, IBMQ
-    from qiskit.compiler import transpile, assemble
-    from qiskit.tools.jupyter import *
-    from qiskit.visualization import *
+    # Importing standard Cirq libraries
+    from cirq.devices import GridQubit
+    from cirq import Circuit
+    from cirq import measure
+    from cirq import Simulator
 
 .. code:: ipython3
 

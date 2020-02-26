@@ -74,9 +74,9 @@
 #         </p>
 #     </div>
 #     <div style="float: left; width: 20%; padding: 5px;">
-#         <img src="../../../../imgs/logos/frameworks/qiskit-logo-2.png"/ height="200" width="200" alt="IBM's Qiskit"/>
+#         <img src="../../../../imgs/logos/frameworks/cirq-logo-1.png"/ height="200" width="200" alt="Google's Cirq"/>
 #         <p style="text-align:center">
-#             <a href="https://www.qiskit.org/"><u><i><b>IBM's Qiskit</b></i></u></a>
+#             <a href="https://github.com/quantumlib/Cirq"><u><i><b>Google's Cirq</b></i></u></a>
 #         </p>
 #     </div>
 #     <div style="float: left; width: 20%; padding: 5px;">
@@ -95,15 +95,15 @@
 # 
 # <div>
 #     <div style="float: left; width: 20%; padding: 5px;">
-#         <img src="../../../../imgs/logos/enterprises/ibm-logo-1.png"/ height="200" width="200" alt="IBM"/>
+#         <img src="../../../../imgs/logos/enterprises/google-logo-1.png"/ height="200" width="200" alt="IBM"/>
 #         <p style="text-align:center">
-#             <a href="https://www.ibm.com/"><u><i><b>IBM</b></i></u></a>
+#             <a href="https://www.google.com/"><u><i><b>Google</b></i></u></a>
 #         </p>
 #     </div>
 #     <div style="float: left; width: 20%; padding: 5px;">
-#         <img src="../../../../imgs/logos/projects-and-teams/ibm-q-logo-1.png" height="200" width="200" alt="IBM Q Experience"/>
+#         <img src="../../../../imgs/logos/projects-and-teams/google-ai-quantum-logo-1.png"/ height="200" width="200" alt="Google AI Quantum"/>
 #         <p style="text-align:center">
-#             <a href="https://quantum-computing.ibm.com/"><u><i><b>IBM Q Experience</b></i></u></a>
+#             <a href="https://research.google/teams/applied-science/quantum/"><u><i><b>Google AI Quantum</b></i></u></a>
 #         </p>
 #     </div>
 # </div>
@@ -113,11 +113,11 @@
 # In[1]:
 
 
-# Importing standard Qiskit libraries and configuring account
-from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister, execute, Aer, IBMQ
-from qiskit.compiler import transpile, assemble
-from qiskit.tools.jupyter import *
-from qiskit.visualization import *
+# Importing standard Cirq libraries
+from cirq.devices import GridQubit
+from cirq import Circuit
+from cirq import measure
+from cirq import Simulator
 
 
 # In[2]:

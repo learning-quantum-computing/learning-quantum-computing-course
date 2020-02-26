@@ -51,59 +51,102 @@
 
 <br>
 
-<div>
-    <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/frameworks/anaconda-logo-1.png"/ height="200" width="200" alt="Python"/>
-        <p style="text-align:center">
-            <a href="https://www.anaconda.com/"><u><i><b>Anaconda</b></i></u></a>
-        </p>
-    </div>
-    <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/frameworks/jupyter-notebook-logo-1.png" height="200" width="200" alt="Jupyter Notebook"/>
-        <p style="text-align:center">
-            <a href="https://jupyter.org/"><u><i><b>Jupyter Notebook</b></i></u></a>
-        </p>
-    </div>
-    <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/frameworks/python-logo-1.png"/ height="200" width="200" alt="Python"/>
-        <p style="text-align:center">
-            <a href="https://www.python.org/"><u><i><b>Python</b></i></u></a>
-        </p>
-    </div>
-    <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/frameworks/qiskit-logo-2.png"/ height="200" width="200" alt="IBM's Qiskit"/>
-        <p style="text-align:center">
-            <a href="https://www.qiskit.org/"><u><i><b>IBM's Qiskit</b></i></u></a>
-        </p>
-    </div>
-    <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/frameworks/matplotlib-logo-1.png"/ height="200" width="200" alt="Matplotlib"/>
-        <p style="text-align:center">
-            <a href="https://matplotlib.org/"><u><i><b>Matplotlib</b></i></u></a>
-        </p>
-    </div>
-</div>
+<p style="text-align:justify">
+    <img src="../../../../imgs/logos/frameworks/anaconda-logo-1.png" align="left" height="200" width="200" alt="Python"/>
+</p>
 
-***
+<br>
+<br>
+<br>
+<br>
+
+[**_Anaconda_**](https://www.anaconda.com/)
+
+<br>
+<br>
+
+<p style="text-align:justify">
+    <img src="../../../../imgs/logos/frameworks/jupyter-notebook-logo-1.png" align="left" height="200" width="200" alt="Jupyter Notebook"/>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+[**_Jupyter Notebook_**](https://jupyter.org/)
+
+<br>
+<br>
+
+<p style="text-align:justify">
+    <img src="../../../../imgs/logos/frameworks/python-logo-1.png" align="left" height="200" width="200" alt="Python"/>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+[**_Python_**](https://www.python.org/)
+
+<br>
+<br>
+
+<p style="text-align:justify">
+    <img src="../../../../imgs/logos/frameworks/qiskit-logo-2.png" align="left" height="200" width="200" alt="IBM's Qiskit"/>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+[**_IBM's Qiskit_**](https://www.qiskit.org/)
+
+<br>
+<br>
+
+<p style="text-align:justify">
+    <img src="../../../../imgs/logos/frameworks/matplotlib-logo-1.png" align="left" height="200" width="200" alt="Matplotlib"/>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+[**_Matplotlib_**](https://matplotlib.org/)
 
 ## **_Special Thanks To:_**
 
 <br>
 
-<div>
-    <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/enterprises/ibm-logo-1.png"/ height="200" width="200" alt="IBM"/>
-        <p style="text-align:center">
-            <a href="https://www.ibm.com/"><u><i><b>IBM</b></i></u></a>
-        </p>
-    </div>
-    <div style="float: left; width: 20%; padding: 5px;">
-        <img src="../../../../imgs/logos/projects-and-teams/ibm-q-logo-1.png" height="200" width="200" alt="IBM Q Experience"/>
-        <p style="text-align:center">
-            <a href="https://quantum-computing.ibm.com/"><u><i><b>IBM Q Experience</b></i></u></a>
-        </p>
-    </div>
-</div>
+<p style="text-align:justify">
+    <img src="../../../../imgs/logos/enterprises/ibm-logo-1.png" align="left" height="200" width="200" alt="IBM"/>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+[**_IBM_**](https://www.ibm.com/)
+
+<br>
+<br>
+
+<p style="text-align:justify">
+    <img src="../../../../imgs/logos/projects-and-teams/ibm-q-logo-1.png" align="left" height="200" width="200" alt="IBM Q Experience"/>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+[**_IBM Q Experience_**](https://quantum-computing.ibm.com/)
 
 ***
 

@@ -62,72 +62,76 @@
 
 .. raw:: html
 
-   <div>
-
-::
-
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/anaconda-logo-1.png"/ height="200" width="200" alt="Python"/>
-       <p style="text-align:center">
-           <a href="https://www.anaconda.com/"><u><i><b>Anaconda</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/jupyter-notebook-logo-1.png" height="200" width="200" alt="Jupyter Notebook"/>
-       <p style="text-align:center">
-           <a href="https://jupyter.org/"><u><i><b>Jupyter Notebook</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/python-logo-1.png"/ height="200" width="200" alt="Python"/>
-       <p style="text-align:center">
-           <a href="https://www.python.org/"><u><i><b>Python</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/qiskit-logo-2.png"/ height="200" width="200" alt="IBM's Qiskit"/>
-       <p style="text-align:center">
-           <a href="https://www.qiskit.org/"><u><i><b>IBM's Qiskit</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/frameworks/matplotlib-logo-1.png"/ height="200" width="200" alt="Matplotlib"/>
-       <p style="text-align:center">
-           <a href="https://matplotlib.org/"><u><i><b>Matplotlib</b></i></u></a>
-       </p>
-   </div>
+   <p style="text-align:justify">
 
 .. raw:: html
 
-   </div>
+   </p>
 
---------------
+`Anaconda <https://www.anaconda.com/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Jupyter Notebook <https://jupyter.org/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Python <https://www.python.org/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`IBM’s Qiskit <https://www.qiskit.org/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`Matplotlib <https://matplotlib.org/>`__
 
 **Special Thanks To:**
 ----------------------
 
 .. raw:: html
 
-   <div>
-
-::
-
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/enterprises/ibm-logo-1.png"/ height="200" width="200" alt="IBM"/>
-       <p style="text-align:center">
-           <a href="https://www.ibm.com/"><u><i><b>IBM</b></i></u></a>
-       </p>
-   </div>
-   <div style="float: left; width: 20%; padding: 5px;">
-       <img src="../../../../imgs/logos/projects-and-teams/ibm-q-logo-1.png" height="200" width="200" alt="IBM Q Experience"/>
-       <p style="text-align:center">
-           <a href="https://quantum-computing.ibm.com/"><u><i><b>IBM Q Experience</b></i></u></a>
-       </p>
-   </div>
+   <p style="text-align:justify">
 
 .. raw:: html
 
-   </div>
+   </p>
+
+`IBM <https://www.ibm.com/>`__
+
+.. raw:: html
+
+   <p style="text-align:justify">
+
+.. raw:: html
+
+   </p>
+
+`IBM Q Experience <https://quantum-computing.ibm.com/>`__
 
 --------------
 
