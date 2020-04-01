@@ -74,10 +74,6 @@
         - scipy
         - spyder
 
-   ``
-
-   ``
-   
       The following packages will be downloaded:
 
         package                    |            build
