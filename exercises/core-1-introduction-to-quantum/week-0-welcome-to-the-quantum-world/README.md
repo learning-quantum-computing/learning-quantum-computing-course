@@ -3,29 +3,39 @@
 ## QuTiP (Quantum Toolbox in Python)
 
 * Pre-Requisites (mandatory):
-    * Anaconda;
-    * Python;
+    * **_Anaconda_**;
+    * **_Python_**;
     
 * The Qutip Framework can be installed, by the following commands in the prompt:
 
     * Open the terminal (Command-Prompt, Anaconda/Conda Prompt, or similar);
 
     * Create a conda environment for QuTip:
+    
     ``
-    conda create --name qutip
+    
+      conda create --name qutip
+    
     ``
     
     * Activate the previously created conda environment for QuTip:
+    
     ``
-    activate qutip
+    
+      activate qutip
+    
     ``
 
     * Upgrade pip (recomended, but not mandatory):
+    
     ``
-    python -m pip install --upgrade pip --user
+    
+      python -m pip install --upgrade pip --user
+    
     ``
     
     * It will displayed an output in the prompt, similar to the following:
+    
     ``
     Collecting pip
       Using cached https://files.pythonhosted.org/packages/54/0c/d01aa759fdc501a58f431eb594a17495f15b88da142ce14b5845662c13f3/pip-20.0.2-py2.py3-none-any.whl
@@ -34,16 +44,30 @@
     ``
     
     * Install the basic packages for this conda environment (NumPy, SciPy, Cython, MatPlotLib, Nose, Jupyter Notebook), prompt 'y' and press ENTER when asked by 'Proceed ([y]/n)?':
-    ``
-    conda install numpy scipy cython matplotlib nose jupyter notebook spyder
-    ``
+    
+  ``
+  
+      conda install numpy scipy cython matplotlib nose jupyter notebook spyder
+  
+  ``
 
     * It will displayed an output in the prompt, similar to the following:
-    ``
-    Collecting package metadata (current_repodata.json): done
-    Solving environment: done
-
-    ## Package Plan ##
+    
+  ``
+  
+      Collecting package metadata (current_repodata.json): done
+  
+  `` 
+     
+  `` 
+   
+      Solving environment: done
+  
+  ``
+   
+  ``
+      
+      ## Package Plan ##
 
       environment location: C:\Users\rubenandrebarreiro\.conda\envs\qutip
 
