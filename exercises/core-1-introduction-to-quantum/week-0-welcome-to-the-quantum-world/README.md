@@ -13,17 +13,13 @@
     * Create a conda environment for QuTip:
     
     ``
-    
       conda create --name qutip
-    
     ``
     
     * Activate the previously created conda environment for QuTip:
     
     ``
-    
       activate qutip
-    
     ``
 
     * Upgrade pip (recomended, but not mandatory):
