@@ -197,10 +197,6 @@
         ------------------------------------------------------------
                                                Total:        80.6 MB
 
-   ``
-   
-   ``
-   
       The following NEW packages will be INSTALLED:
 
       alabaster          pkgs/main/noarch::alabaster-0.7.12-py_0
@@ -365,10 +361,6 @@
       zipp               pkgs/main/noarch::zipp-2.2.0-py_0
       zlib               pkgs/main/win-64::zlib-1.2.11-h62dcd97_3
 
-   ``
-   
-   ``
-   
       Proceed ([y]/n)? y
 
 
@@ -595,6 +587,7 @@
     * If during the installation, nothing goes wrong, it will probably reproduce an output, like the following, in the beginning (it can take several minutes):
     
     ``
+       
        QuTiP: Quantum Toolbox in Python
        ================================
        Copyright (c) QuTiP team 2011 and later.
@@ -689,36 +682,43 @@
     ``
     
     * For cite the QuTip, it's strongly recomended to run the following instruction in Python, after import the library/framework:
-    >>> qutip.cite()
+    ``
+    
+      >>> qutip.cite()
+    
+    ``
     
     * The previous instruction will generate the following outpu for format for BibTex (for usage in Tex/LaTeX):
+    
     ``
-    @article{qutip2,
-    doi = {10.1016/j.cpc.2012.11.019},
-    url = {https://doi.org/10.1016/j.cpc.2012.11.019},
-    year  = {2013},
-    month = {apr},
-    publisher = {Elsevier {BV}},
-    volume = {184},
-    number = {4},
-    pages = {1234--1240},
-    author = {J.R. Johansson and P.D. Nation and F. Nori},
-    title = {{QuTiP} 2: A {P}ython framework for the dynamics of open quantum systems},
-    journal = {Computer Physics Communications}
-    }
-    @article{qutip1,
-    doi = {10.1016/j.cpc.2012.02.021},
-    url = {https://doi.org/10.1016/j.cpc.2012.02.021},
-    year  = {2012},
-    month = {aug},
-    publisher = {Elsevier {BV}},
-    volume = {183},
-    number = {8},
-    pages = {1760--1772},
-    author = {J.R. Johansson and P.D. Nation and F. Nori},
-    title = {{QuTiP}: An open-source {P}ython framework for the dynamics of open quantum systems},
-    journal = {Computer Physics Communications}
-    }
+    
+       @article{qutip2,
+       doi = {10.1016/j.cpc.2012.11.019},
+       url = {https://doi.org/10.1016/j.cpc.2012.11.019},
+       year  = {2013},
+       month = {apr},
+       publisher = {Elsevier {BV}},
+       volume = {184},
+       number = {4},
+       pages = {1234--1240},
+       author = {J.R. Johansson and P.D. Nation and F. Nori},
+       title = {{QuTiP} 2: A {P}ython framework for the dynamics of open quantum systems},
+       journal = {Computer Physics Communications}
+       }
+       @article{qutip1,
+       doi = {10.1016/j.cpc.2012.02.021},
+       url = {https://doi.org/10.1016/j.cpc.2012.02.021},
+       year  = {2012},
+       month = {aug},
+       publisher = {Elsevier {BV}},
+       volume = {183},
+       number = {8},
+       pages = {1760--1772},
+       author = {J.R. Johansson and P.D. Nation and F. Nori},
+       title = {{QuTiP}: An open-source {P}ython framework for the dynamics of open quantum systems},
+       journal = {Computer Physics Communications}
+       }
+    
     ``
 
     * Exit from Python, in prompt:
