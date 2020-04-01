@@ -58,16 +58,7 @@
   ``
   
       Collecting package metadata (current_repodata.json): done
-  
-  `` 
-     
-  `` 
-   
       Solving environment: done
-  
-  ``
-   
-  ``
       
       ## Package Plan ##
 
