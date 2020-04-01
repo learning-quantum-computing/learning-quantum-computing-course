@@ -1,4 +1,4 @@
-# Intructions for Quantum Frameworks
+# Instructions for Installation of Quantum Frameworks/Libraries
 
 ## QuTiP (Quantum Toolbox in Python)
 
