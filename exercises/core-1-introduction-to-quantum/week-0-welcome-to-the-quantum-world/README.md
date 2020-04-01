@@ -642,6 +642,7 @@
     ``
     
     * Run the following instruction in Python, to view the information about QuTiP and the important dependencies installed on your system:
+    
     ``
     
        >>> from qutip import *
@@ -682,6 +683,7 @@
     ``
     
     * For cite the QuTip, it's strongly recomended to run the following instruction in Python, after import the library/framework:
+    
     ``
     
       >>> qutip.cite()
@@ -722,11 +724,19 @@
     ``
 
     * Exit from Python, in prompt:
-    >>> exit()
+    
+    ``
+      
+      >>> exit()
+   
+    ``
 
     * Deactivate the current QuTiP conda environment:
+    
     ``
-    conda deactivate
+    
+      conda deactivate
+    
     ``
 
 ***
